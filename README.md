@@ -1,2 +1,2 @@
 # subzero
-Substrate Blockchain 0
+Substrate Blockchain
