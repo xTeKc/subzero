@@ -1,2 +1,2 @@
-# subchain0
+# subzero
 Substrate Blockchain 0
